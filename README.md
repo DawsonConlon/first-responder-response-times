@@ -24,7 +24,7 @@ Group project for DATA 604 (MDSA program).
 All four datasets come from each city's open data portal and were filtered to the 2025 calendar year.
 
 | City | Source | License | Original size | Cleaned |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | Waterloo | [WRPS 2025 Occurrence Data](https://wrps.ca/resource/2025-occurrence-data) | Waterloo Open Data User Licence | 292,876 rows × 23 cols | 106,016 rows |
 | New York City | [NYPD Calls for Service](https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service-Year-to-Date-/n2zq-pubd) | Public domain | 54.9M rows × 20 cols (2018–2026) | 2,450,345 rows |
 | Seattle | [Seattle Call Data](https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy/about_data) | Public domain | 11M rows × 48 cols | 146,831 rows |
