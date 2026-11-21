@@ -1,6 +1,6 @@
 # First Responder Response Times in North American Cities
 
-How long does it take emergency responders to arrive after being dispatched? This project compares 2025 response times (arrival time minus dispatch time) across **Waterloo, New York City, Seattle and San Francisco**. Each city's open 911/dispatch data was cleaned in Python. We then desinged a relational database and the data into loaded into a MySQL. The final relational database is 725,481-rows.
+How long does it take emergency responders to arrive after being dispatched? This project compares 2025 response times (arrival time minus dispatch time) across **Waterloo, New York City, Seattle and San Francisco**. Each city's open 911/dispatch data was cleaned in Python. We then designed a relational database and executed it on MySQL. The final relational database is 725,481-rows.
 
 Group project for DATA 604 (MDSA program).
 
